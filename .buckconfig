@@ -1,0 +1,5 @@
+[project]
+  ignore = .git, .buckd
+
+[cxx]
+  gtest_dep = google.gtest//:gtest
